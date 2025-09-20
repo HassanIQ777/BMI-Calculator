@@ -9,3 +9,4 @@ A C++ program that calculates your Body Mass Index
 git clone https://github.com/HassanIQ777/BMI-Calculator.git
 cd BMI-Calculator
 make
+./bmi-calculator
